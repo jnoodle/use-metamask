@@ -1,13 +1,14 @@
 {
-  "name": "use-metamask",
-  "version": "1.1.2",
+  "name": "@jnoodle/use-metamask",
+  "version": "1.0.0",
+  "sourceVersion": "1.1.2",
   "description": "Connect Metamask with React Hook",
   "author": {
     "name": "Muhammed Tanrikulu",
     "email": "md.tanrikulu@gmail.com",
     "url": "https://twitter.com/tanrikuIu"
   },
-  "homepage": "https://mdtanrikulu.github.io/use-metamask",
+  "homepage": "https://jnoodle.github.io/use-metamask",
   "keywords": [
     "react",
     "hooks",
@@ -48,10 +49,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mdtanrikulu/use-metamask-hook"
+    "url": "https://github.com/jnoodle/use-metamask-hook"
   },
   "bugs": {
-    "url": "https://github.com/mdtanrikulu/use-metamask-hook/issues"
+    "url": "https://github.com/jnoodle/use-metamask-hook/issues"
   },
   "jest": {
     "collectCoverageFrom": [

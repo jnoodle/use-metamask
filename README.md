@@ -11,7 +11,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/mdtanrikulu/use-metamask">
+  <a href="https://github.com/jnoodle/use-metamask">
     <img src="example/public/logo512.png" alt="Logo" width="250" height="250">
   </a>
 
@@ -20,14 +20,14 @@
   <p align="center">
     An awesome React Hook to jumpstart your projects!
     <br />
-    <a href="https://github.com/mdtanrikulu/use-metamask"><strong>Explore the docs » (Not ready yet)</strong></a>
+    <a href="https://github.com/jnoodle/use-metamask"><strong>Explore the docs » (Not ready yet)</strong></a>
     <br />
     <br />
-    <a href="https://mdtanrikulu.github.io/use-metamask">View Demo</a>
+    <a href="https://jnoodle.github.io/use-metamask">View Demo</a>
     ·
-    <a href="https://github.com/mdtanrikulu/use-metamask/issues">Report Bug</a>
+    <a href="https://github.com/jnoodle/use-metamask/issues">Report Bug</a>
     ·
-    <a href="https://github.com/mdtanrikulu/use-metamask/issues">Request Feature</a>
+    <a href="https://github.com/jnoodle/use-metamask/issues">Request Feature</a>
   </p>
 </p>
 
@@ -81,9 +81,9 @@ Of course, no one hook will serve all projects since your needs may be different
 Easiest option is installing the package from npm with;
 ```bash
 # via npm
-npm i use-metamask
+npm i @jnoodle/use-metamask
 # or via yarn
-yarn add use-metamask
+yarn add @jnoodle/use-metamask
 ```
 
 But if you would like to build a package locally, follow the below;
@@ -104,7 +104,7 @@ You'll need some prerequisites in order to be able build the package.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/mdtanrikulu/use-metamask.git
+   git clone https://github.com/jnoodle/use-metamask.git
    ```
 2. Install NPM packages
    ```sh
@@ -227,7 +227,7 @@ useEffect(() => {
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/mdtanrikulu/use-metamask/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/jnoodle/use-metamask/issues) for a list of proposed features (and known issues).
 
 
 
@@ -254,9 +254,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Muhammed Tanrikulu - [@tanrikuIu](https://twitter.com/tanrikuIu) - md.tanrikulu@gmail.com
-
-Project Link: [https://github.com/mdtanrikulu/use-metamask](https://github.com/mdtanrikulu/use-metamask)
+Project Link: [https://github.com/jnoodle/use-metamask](https://github.com/jnoodle/use-metamask)
 
 
 
